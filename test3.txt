@@ -1,1 +1,3 @@
 This new file test3 created in git hub to chk sync
+
+This file is edited to check the revert functionality in master branch
