@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this file is created test5.txt is created in master branch to test git merge
 
+=======
+this test5 file created in feature1 branch
+>>>>>>> feature1
